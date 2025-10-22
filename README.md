@@ -7,9 +7,6 @@
 
 Sistema web interactivo de Machine Learning para la predicción de costos de seguros médicos y diagnóstico de diabetes, desarrollado como proyecto educativo.
 
-![Banner del Proyecto](images/banner.png)
-*Captura de pantalla de la interfaz web*
-
 ## 📋 Tabla de Contenidos
 
 - [Descripción](#-descripción)
@@ -819,4 +816,5 @@ Diabetes             | 0.88     | 0.86      | 0.84   | 0.85
 6. **Transparencia con usuarios** ✓
 
 ![Mitigación de Sesgo](images/bias_mitigation.png)
+
 
