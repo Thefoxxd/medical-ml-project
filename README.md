@@ -57,7 +57,7 @@ El sistema incluye una interfaz web desarrollada con Gradio que permite hacer pr
 ### Opción 1: Local
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/medical-ml-project.git
+git clone https://github.com/tThefoxxd/medical-ml-project.git
 cd medical-ml-project
 
 # 2. Crear entorno virtual (recomendado)
@@ -819,3 +819,4 @@ Diabetes             | 0.88     | 0.86      | 0.84   | 0.85
 6. **Transparencia con usuarios** ✓
 
 ![Mitigación de Sesgo](images/bias_mitigation.png)
+
